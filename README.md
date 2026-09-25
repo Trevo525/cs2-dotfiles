@@ -1,4 +1,4 @@
-# Set this up to your config folder. 
+# Set this up to your config folder. (`/.../steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/`)
  - `git init`
  - `git remote add origin git@github.com:Trevo525/cs2-dotfiles.git`
  - `git fetch`
